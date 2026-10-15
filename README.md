@@ -1,3 +1,6 @@
+![Profile Banner]
+(https://github.com/Najma222/Najma222/blob/main/Intro_banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Najma Lanka</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
