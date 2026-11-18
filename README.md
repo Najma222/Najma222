@@ -80,7 +80,7 @@ REACT · TYPESCRIPT · VITE · SUPABASE
 04 — ALUMNI NETWORK
 
 <a href="#">
-  <img src="./aitm-alumni-card.png" width="100%" alt="AITM Alumni Network project cover" />
+  <img src="./aitm-alumni-card.PNG" width="100%" alt="AITM Alumni Network project cover" />
 </a>
 
 AITM ALUMNI NETWORK
