@@ -77,14 +77,19 @@ REACT · TYPESCRIPT · VITE · SUPABASE
   <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Pantry Chef" />
 </a>
 
-04 — PRIVATE ACADEMIC PROJECT
+04 — ALUMNI NETWORK
 
-<img src="https://img.shields.io/badge/AITM%20ALUMNI%20NETWORK-8B5CF6?style=for-the-badge" alt="Private academic project" />
+<a href="#">
+  <img src="./aitm-alumni-card.png" width="100%" alt="AITM Alumni Network project cover" />
+</a>
 
-An alumni networking platform developed for AITM College.
+AITM ALUMNI NETWORK
 
-PRIVATE REPOSITORY · ACADEMIC PROJECT
+An alumni networking platform developed for AITM College, designed to connect graduates and strengthen the alumni community.
 
+PRIVATE ACADEMIC PROJECT · ALUMNI NETWORKING · AITM COLLEGE
+
+<img src="https://img.shields.io/badge/REPOSITORY-PRIVATE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Private repository" />
 </div>
 
 ⸻
@@ -161,8 +166,8 @@ PRIVATE REPOSITORY · ACADEMIC PROJECT
 </p>
 <div align="center">
 
-BUILDING LEARNING EVOLVING.
+BUILDING. LEARNING. EVOLVING.
 
-NAJMA LANKA 
+NAJMA LANKA · HOLOGRAPHIC EDITION
 
 </div>
