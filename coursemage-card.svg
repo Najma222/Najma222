@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="240" viewBox="0 0 520 240">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1A"/><stop offset=".55" stop-color="#11152B"/><stop offset="1" stop-color="#092536"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00D9FF"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#00D9FF"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="520" height="240" rx="22" fill="url(#bg)"/>
+<rect x="5" y="5" width="510" height="230" rx="19" fill="none" stroke="url(#line)" stroke-width="2.5" filter="url(#glow)"/>
+<path d="M20 190 H500" stroke="#00D9FF" opacity=".18"/>
+<text x="34" y="48" fill="#00D9FF" font-family="monospace" font-size="13" letter-spacing="3">02 / FULL-STACK PLATFORM</text>
+<text x="34" y="112" fill="#F3F7FF" font-family="Arial, sans-serif" font-weight="700" font-size="34">CourseMAGE</text>
+<text x="35" y="145" fill="#A9B8CC" font-family="Arial, sans-serif" font-size="15">Course and academic management</text>
+<rect x="34" y="174" width="120" height="28" rx="14" fill="#00D9FF" opacity=".16" stroke="#00D9FF" stroke-opacity=".65"/>
+<text x="94" y="193" text-anchor="middle" fill="#00D9FF" font-family="monospace" font-size="11">EXPLORE PROJECT</text>
+
+        <rect x="350" y="65" width="115" height="125" rx="14" fill="#00D9FF" opacity=".10" stroke="#00D9FF"/>
+        <path d="M375 105 H440 M375 125 H430 M375 145 H415" stroke="#00D9FF" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+        <path d="M370 85 L405 70 L440 85 L405 100 Z" fill="none" stroke="#8B5CF6" stroke-width="2"/>
+        
+</svg>
