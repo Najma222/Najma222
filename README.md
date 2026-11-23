@@ -1,4 +1,4 @@
- <h2 align="center">Najma Lanka</h2>
+<h2 align="center">Najma Lanka</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D97736&center=true&vCenter=true&width=520&lines=Web+Developer;Full-Stack+Developer;Always+Learning%2C+Always+Building" alt="Web Developer | Full-Stack Developer | Always Learning, Always Building" />
 </p>
@@ -15,13 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=Najma222&label=Profile%20views&color=D97736&style=flat" alt="Profile views" />
 </p>
 
-<b>About</b>
+About
 
 I’m a developer interested in building useful, accessible, and engaging applications. I enjoy working across the stack, exploring new technologies, and turning ideas into practical digital products.
 
 I value thoughtful design, clean implementation, and learning by building.
 
-<b>Selected projects</b>
+Selected projects
 
 A selection of projects I’ve been building and contributing to.
 
@@ -31,7 +31,7 @@ A neighbourhood services platform that connects customers with local service pro
 
 Next.js · Supabase · Tailwind CSS · Leaflet
 
-View project repository ↗
+<a href="https://github.com/Najma222/local-connect" target="_blank">View Local Connect repository ↗</a>
 
 <b>2.CourseMAGE</b>
 
@@ -39,7 +39,7 @@ A course management platform for students and instructors, bringing course enrol
 
 Python · Flask · MySQL · TiDB
 
-View project repository ↗
+<a href="https://github.com/Najma222/Student_management" target="_blank">View CourseMAGE repository ↗</a>
 
 <b>3.Pantry Chef</b>
 
@@ -47,9 +47,9 @@ A pantry-focused web application built with a modern frontend stack, combining R
 
 React · TypeScript · Vite · Supabase
 
-View project repository ↗
+<a href="https://github.com/Najma222/pantry-chef" target="_blank">View Pantry Chef repository ↗</a>
 
-<b>4.AITM Alumni Network</b>
+4.AITM Alumni Network
 
 An academic team project focused on creating an alumni networking platform for AITM College, designed to support connections between graduates and their college community.
 
@@ -58,7 +58,6 @@ Private academic collaboration.
 <p align="center">
   <a href="https://github.com/Najma222?tab=repositories"><strong>EXPLORE ALL REPOSITORIES →</strong></a>
 </p>
-
 
 GitHub activity
 
