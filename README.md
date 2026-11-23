@@ -1,4 +1,4 @@
-<h2 align="center">Najma Lanka</h2>
+ <h2 align="center">Najma Lanka</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=D97736&center=true&vCenter=true&width=520&lines=Web+Developer;Full-Stack+Developer;Always+Learning%2C+Always+Building" alt="Web Developer · Full-Stack Developer · Always Learning, Always Building" />
 </p>
@@ -23,68 +23,62 @@ I’m a developer interested in building practical applications and creating tho
 
 I enjoy working across frontend and backend development, learning by building, and exploring different ways to solve problems with technology.
 
+⸻
+
 Selected projects
 
-Things I’ve been building and contributing to.
+A few things I’ve been building and contributing to.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+⸻
 
-01 / LOCAL CONNECT
+<p align="right"><sub>01 / IN DEVELOPMENT</sub></p>
 
 Local Connect
 
-A neighbourhood services platform connecting customers with local service providers, including customer experiences and a seller dashboard.
+A neighbourhood services platform connecting customers with local service providers, featuring customer experiences and a dedicated seller dashboard.
 
-Next.js Supabase Tailwind CSS Leaflet
+Next.js · Supabase · Tailwind CSS · Leaflet
 
-Explore repository →
+View project repository ↗
 
-</td>
-<td width="50%" valign="top">
+⸻
 
-02 / COURSEMAGE
+<p align="right"><sub>02 / WEB APPLICATION</sub></p>
 
 CourseMAGE
 
-A course management platform for students and instructors, with authentication, enrollment, assignments, and grade tracking.
+A course management platform for students and instructors, bringing course enrollment, assignments, authentication and grade tracking together.
 
-Python Flask MySQL TiDB
+Python · Flask · MySQL · TiDB
 
-Explore repository →
+View project repository ↗
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+⸻
 
-03 / PANTRY CHEF
+<p align="right"><sub>03 / WEB APPLICATION</sub></p>
 
 Pantry Chef
 
 A pantry-focused web application built with a modern frontend stack and Supabase.
 
-React TypeScript Vite Supabase
+React · TypeScript · Vite · Supabase
 
-Explore repository →
+View project repository ↗
 
-</td>
-<td width="50%" valign="top">
+⸻
 
-04 / AITM ALUMNI NETWORK
+<p align="right"><sub>04 / ACADEMIC COLLABORATION</sub></p>
 
 AITM Alumni Network
 
-An academic team project focused on building an alumni networking platform for AITM College.
+An alumni networking platform developed as an academic team project for AITM College.
 
-Private academic project · Team collaboration
+Private academic project.
 
-</td>
-</tr>
-</table>
+⸻
+
 <p align="center">
-  <a href="https://github.com/Najma222?tab=repositories"><strong>View all repositories →</strong></a>
+  <a href="https://github.com/Najma222?tab=repositories"><strong>EXPLORE ALL REPOSITORIES →</strong></a>
 </p>
 
 ⸻
